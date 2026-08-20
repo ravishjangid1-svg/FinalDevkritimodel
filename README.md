@@ -190,15 +190,15 @@ The project also supports testing an arbitrary news statement.
 **Example:**
 
 ```python
-my_news = "BREAKING: Government insiders reveal that aliens have completely taken over the Pentagon!"
+my_news = "The Federal Reserve announced a quarter-point interest rate hike on Wednesday following the monthly committee meeting in Washington."
 predict_custom_news(my_news)
 ```
 
 **Output:**
 
 ```
-Fake News Confidence: 63.00%
-Real News Confidence: 37.00%
+Fake News Confidence: 31.00%
+Real News Confidence: 69.00%
 ```
 
 ---
